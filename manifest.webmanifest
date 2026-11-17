@@ -1,7 +1,7 @@
 {
   "id": "./",
-  "name": ",
-  "short_name":moses-weah "Students_database",
+  "name": Moses Weah Student Database",",
+  "short_name":moses-weah_database",
   "description": "A configurable student registration, attendance, grades and report-card manager for schools and educators.",
   "start_url": "./index.html",
   "scope": "./",
