@@ -1,0 +1,14 @@
+UNIVERSAL STUDENT ACADEMIC MANAGER — INSTALLATION
+
+ANDROID PHONE
+1. The app folder must first be uploaded to an HTTPS website (for example, a school website or an approved static hosting service).
+2. Open the published website address in Google Chrome on Android.
+3. Tap the Install App button if it appears. Otherwise tap Chrome's three-dot menu and choose Install app or Add to Home screen.
+4. Confirm. The Student Manager icon will appear on the phone's home screen/app list.
+
+IMPORTANT
+- Opening index.html directly from Downloads does not provide full PWA installation.
+- This package is not an APK.
+- HTTPS hosting is required for service-worker offline support and reliable PWA installation.
+- The current app stores its records in the browser on that device. It does NOT yet connect to a shared online database or provide secure multi-user accounts.
+- For a 5,000+ student school-wide deployment, a PostgreSQL server, secure authentication, role permissions, backups and server-side pagination must be deployed and connected before entering real student records.
